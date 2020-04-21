@@ -9,3 +9,4 @@ Coronavirus disease symptoms
 6- Sore throat 
 7- Diarrhea
 8- Sneezing 
+9- Vomiting 
