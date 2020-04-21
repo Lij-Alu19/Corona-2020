@@ -8,3 +8,4 @@ Coronavirus disease symptoms
 5- Runny nose
 6- Sore throat 
 7- Diarrhea
+8- Sneezing 
